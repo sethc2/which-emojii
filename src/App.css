@@ -30,6 +30,7 @@
 
 .answers button {
   font-size: 60px;
+  padding: 0;
 }
 
 .stats {
