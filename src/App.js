@@ -13,7 +13,7 @@ const getNextSet = (withinNext) => {
   let nextIndex;
   if (typeof withinNext === "number") {
     nextIndex =
-      (withinNext + (getRandomInt(1) ? -1 : 1) * getRandomInt(10)) %
+      (withinNext + (getRandomInt(1) ? -1 : 1) * getRandomInt(20)) %
       sortedEmojii.length;
   } else {
     nextIndex = getRandomInt(sortedEmojii.length);
@@ -74,6 +74,9 @@ function App() {
                   : "lightgrey",
             }}
             onClick={() => {
+              if (selectedAnswer) {
+                return;
+              }
               if (answer === emojii) {
                 setNumberCorrect(numberCorrect + 1);
               } else {

@@ -23,11 +23,13 @@
 .answers {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  align-items: center;
+  justify-items: center;
 }
 
 .answers button {
-  font-size: 80px;
+  font-size: 60px;
 }
 
 .stats {

@@ -236,10 +236,6 @@ export const emotionList = [
     description: "Partying Face",
   },
   {
-    emojii: "🥸",
-    description: "Disguised Face",
-  },
-  {
     emojii: "😎",
     description: "Smiling Face with Sunglasses",
   },
@@ -622,14 +618,6 @@ export const emotionList = [
   {
     emojii: "🧠",
     description: "Brain",
-  },
-  {
-    emojii: "🫀",
-    description: "Anatomical Heart",
-  },
-  {
-    emojii: "🫁",
-    description: "Lungs",
   },
   {
     emojii: "🦷",
@@ -1108,10 +1096,6 @@ export const emotionList = [
     description: "Woman Guard",
   },
   {
-    emojii: "🥷",
-    description: "Ninja",
-  },
-  {
     emojii: "👷",
     description: "Construction Worker",
   },
@@ -1156,24 +1140,8 @@ export const emotionList = [
     description: "Person in Tuxedo",
   },
   {
-    emojii: "🤵‍♂️",
-    description: "Man in Tuxedo",
-  },
-  {
-    emojii: "🤵‍♀️",
-    description: "Woman in Tuxedo",
-  },
-  {
     emojii: "👰",
     description: "Person With Veil",
-  },
-  {
-    emojii: "👰‍♂️",
-    description: "Man with Veil",
-  },
-  {
-    emojii: "👰‍♀️",
-    description: "Woman with Veil",
   },
   {
     emojii: "🤰",
@@ -1472,16 +1440,8 @@ export const emotionList = [
     description: "People Holding Hands",
   },
   {
-    emojii: "👭",
-    description: "Women Holding Hands",
-  },
-  {
     emojii: "👫",
     description: "Woman and Man Holding Hands",
-  },
-  {
-    emojii: "👬",
-    description: "Men Holding Hands",
   },
   {
     emojii: "💏",
@@ -1492,28 +1452,12 @@ export const emotionList = [
     description: "Kiss: Woman, Man",
   },
   {
-    emojii: "👨‍❤️‍💋‍👨",
-    description: "Kiss: Man, Man",
-  },
-  {
-    emojii: "👩‍❤️‍💋‍👩",
-    description: "Kiss: Woman, Woman",
-  },
-  {
     emojii: "💑",
     description: "Couple with Heart",
   },
   {
     emojii: "👩‍❤️‍👨",
     description: "Couple with Heart: Woman, Man",
-  },
-  {
-    emojii: "👨‍❤️‍👨",
-    description: "Couple with Heart: Man, Man",
-  },
-  {
-    emojii: "👩‍❤️‍👩",
-    description: "Couple with Heart: Woman, Woman",
   },
   {
     emojii: "👪",
@@ -1538,46 +1482,6 @@ export const emotionList = [
   {
     emojii: "👨‍👩‍👧‍👧",
     description: "Family: Man, Woman, Girl, Girl",
-  },
-  {
-    emojii: "👨‍👨‍👦",
-    description: "Family: Man, Man, Boy",
-  },
-  {
-    emojii: "👨‍👨‍👧",
-    description: "Family: Man, Man, Girl",
-  },
-  {
-    emojii: "👨‍👨‍👧‍👦",
-    description: "Family: Man, Man, Girl, Boy",
-  },
-  {
-    emojii: "👨‍👨‍👦‍👦",
-    description: "Family: Man, Man, Boy, Boy",
-  },
-  {
-    emojii: "👨‍👨‍👧‍👧",
-    description: "Family: Man, Man, Girl, Girl",
-  },
-  {
-    emojii: "👩‍👩‍👦",
-    description: "Family: Woman, Woman, Boy",
-  },
-  {
-    emojii: "👩‍👩‍👧",
-    description: "Family: Woman, Woman, Girl",
-  },
-  {
-    emojii: "👩‍👩‍👧‍👦",
-    description: "Family: Woman, Woman, Girl, Boy",
-  },
-  {
-    emojii: "👩‍👩‍👦‍👦",
-    description: "Family: Woman, Woman, Boy, Boy",
-  },
-  {
-    emojii: "👩‍👩‍👧‍👧",
-    description: "Family: Woman, Woman, Girl, Girl",
   },
   {
     emojii: "👨‍👦",
@@ -1630,10 +1534,6 @@ export const emotionList = [
   {
     emojii: "👥",
     description: "Busts in Silhouette",
-  },
-  {
-    emojii: "🫂",
-    description: "People Hugging",
   },
   {
     emojii: "👣",
@@ -1760,10 +1660,6 @@ export const emotionList = [
     description: "Backpack",
   },
   {
-    emojii: "🩴",
-    description: "Thong Sandal",
-  },
-  {
     emojii: "👞",
     description: "Man’s Shoe",
   },
@@ -1814,10 +1710,6 @@ export const emotionList = [
   {
     emojii: "🧢",
     description: "Billed Cap",
-  },
-  {
-    emojii: "🪖",
-    description: "Military Helmet",
   },
   {
     emojii: "⛑️",
